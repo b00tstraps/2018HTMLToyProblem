@@ -1,0 +1,11 @@
+.main-nav {
+    display: inline-block;
+    text-align: left;
+    width: 100%;
+    vertical-align: middle;
+}
+
+.main-nav__item {
+    display: inline-block;
+    margin: 0px 16px;
+}
